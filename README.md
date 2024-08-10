@@ -1,10 +1,11 @@
-# VKDoc Python 译文集（四）
+# VKDoc Python 译文集（二）
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 利欲驱人万火牛，江湖浪迹一沙鸥。——陆游《秋思》
 
-* [在线阅读](https://py4.flygon.net)
+* [在线阅读](vdpy2.flygon.net)
+
 ## 下载
 
 ### Docker
